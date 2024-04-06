@@ -1,0 +1,303 @@
+1
+4 7
+4 3 1 2 
+1 1 1 1 
+exp: 4
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 0 taken: 6 exp: 1
+exp: 3
+stay: 0 move: 0
+index: 1 taken: 6 exp: 3
+stay: 1 move: 3
+index: 0 taken: 5 exp: 4
+exp: 3
+exp: 1
+stay: 0 move: 0
+index: 1 taken: 6 exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+stay: 1 move: 1
+index: 1 taken: 5 exp: 4
+stay: 4 move: 4
+index: 0 taken: 4 exp: 5
+exp: 3
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 1 taken: 6 exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+stay: 1 move: 1
+index: 1 taken: 5 exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+stay: 2 move: 3
+index: 1 taken: 4 exp: 6
+stay: 5 move: 6
+index: 0 taken: 3 exp: 7
+exp: 3
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 1 taken: 6 exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+stay: 1 move: 1
+index: 1 taken: 5 exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+stay: 2 move: 3
+index: 1 taken: 4 exp: 4
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+stay: 4 move: 4
+index: 1 taken: 3 exp: 7
+stay: 7 move: 7
+index: 0 taken: 2 exp: 8
+exp: 3
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 1 taken: 6 exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+stay: 1 move: 1
+index: 1 taken: 5 exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+stay: 2 move: 3
+index: 1 taken: 4 exp: 4
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+stay: 4 move: 4
+index: 1 taken: 3 exp: 5
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 2
+stay: 2 move: 0
+index: 3 taken: 4 exp: 4
+stay: 4 move: 4
+index: 2 taken: 3 exp: 5
+stay: 5 move: 5
+index: 1 taken: 2 exp: 8
+stay: 8 move: 8
+index: 0 taken: 1 exp: 9
+exp: 3
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 1 taken: 6 exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+stay: 1 move: 1
+index: 1 taken: 5 exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+stay: 2 move: 3
+index: 1 taken: 4 exp: 4
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+stay: 4 move: 4
+index: 1 taken: 3 exp: 5
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 2
+stay: 2 move: 0
+index: 3 taken: 4 exp: 4
+stay: 4 move: 4
+index: 2 taken: 3 exp: 5
+stay: 5 move: 5
+index: 1 taken: 2 exp: 6
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 2 taken: 6 exp: 1
+exp: 2
+stay: 0 move: 0
+index: 3 taken: 6 exp: 2
+stay: 1 move: 2
+index: 2 taken: 5 exp: 3
+exp: 2
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 3
+stay: 3 move: 3
+index: 2 taken: 4 exp: 4
+exp: 2
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 2
+stay: 2 move: 0
+index: 3 taken: 4 exp: 4
+stay: 4 move: 4
+index: 2 taken: 3 exp: 5
+exp: 2
+exp: 1
+exp: 1
+exp: 1
+stay: 0 move: 0
+index: 3 taken: 6 exp: 1
+stay: 1 move: 0
+index: 3 taken: 5 exp: 2
+stay: 2 move: 0
+index: 3 taken: 4 exp: 3
+stay: 3 move: 0
+index: 3 taken: 3 exp: 5
+stay: 5 move: 5
+index: 2 taken: 2 exp: 6
+stay: 6 move: 6
+index: 1 taken: 1 exp: 9
+stay: 9 move: 9
+index: 0 taken: 0 exp: 13
+13
+11: 4 3 1 2 1 
+13: 4 3 1 2 1 1 1 
+12: 4 3 1 2 1 1 
+10: 4 3 1 2 
